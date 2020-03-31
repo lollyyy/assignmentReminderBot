@@ -1,0 +1,10 @@
+#ignore these because folder big
+/node_modules
+
+#ignore all secrets
+credentials.json
+token.json
+.env
+
+#ignore lockfiles
+*.lock

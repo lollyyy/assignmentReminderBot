@@ -1,0 +1,13 @@
+{
+  "name": "tg-bot",
+  "version": "0.1.0",
+  "description": "Telegram bot for sending reminders to do your assignments based on a Google Sheets document",
+  "main": "index.js",
+  "author": "Jaakko Ihanamäki",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "39",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
